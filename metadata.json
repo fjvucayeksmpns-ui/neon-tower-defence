@@ -1,0 +1,8 @@
+{
+  "name": " Cyberpunk Neon Tower Defense",
+  "description": "A full 2D Tower Defense game in a neon cyberpunk style featuring 3 unique levels, upgradeable defensive towers, a boss battle, and an interactive almanac.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
